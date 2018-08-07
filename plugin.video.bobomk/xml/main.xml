@@ -1,0 +1,24 @@
+<theknob>
+    <dir>
+        <title>Celebs Nude World</title>
+        <link>file://cnw/main.xml</link>
+        <thumbnail>special://home/addons/plugin.video.bobomk/resources/media/cnw.png</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Collection of Best Porn</title>
+        <link>file://cobp/main.xml</link>
+        <thumbnail>special://home/addons/plugin.video.bobomk/resources/media/cobp.png</thumbnail>
+    </dir>
+
+    <dir>
+        <title>EPorner</title>
+        <link>file://eporner/main.xml</link>
+        <thumbnail>special://home/addons/plugin.video.bobomk/resources/media/eporner.png</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Settings</title>
+        <link>file://msettings.xml</link>
+    </dir>
+</theknob>

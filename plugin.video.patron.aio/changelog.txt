@@ -1,0 +1,13 @@
+v1.6.3 (06/16/2018)
+- Split up into English & Spanish sections
+- Added Openload Pairing
+- Added colors to all sections
+- Updated version to match with version of base
+
+v0.0.2 (05/31/2018)
+- Added Latest News feature
+- Added colors to addon name, main menu & Latest News window
+
+v0.0.1 (05/24/2018)
+- Initial release
+- Combined Patron Peliculas, Patron Boxsets & Patron TV

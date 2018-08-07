@@ -1,0 +1,30 @@
+<arrakis>
+    <podcastmain>
+        <dir>
+            <title>[COLOR yellow]69 Death Squad - Recommended Shows[/COLOR]</title>
+            <meta>
+                <summary>69 Death Squad - Recommended Shows</summary>
+            </meta>
+            <link>file://podcasts/69list.xml</link>
+            <thumbnail>https://raw.githubusercontent.com/muaddibttv/artwork/master/arrakis/podcasts/thelist.png</thumbnail>
+        </dir>
+
+        <dir>
+            <title>P[COLOR red]o[/COLOR]dcast[COLOR red]One[/COLOR]</title>
+            <meta>
+                <summary>Browse all the free content from PodcastOne shows</summary>
+            </meta>
+            <link>file://podcasts/podcastone.xml</link>
+            <thumbnail>https://raw.githubusercontent.com/muaddibttv/artwork/master/arrakis/podcasts/podcastone.png</thumbnail>
+        </dir>
+
+        <dir>
+            <title>Podbay.fm</title>
+            <meta>
+                <summary>Enjoy all the podcasts hosted by Podbay.fm</summary>
+            </meta>
+            <link>file://podcasts/podbay.xml</link>
+            <thumbnail>https://raw.githubusercontent.com/muaddibttv/artwork/master/arrakis/podcasts/podbay.png</thumbnail>
+        </dir>
+    </podcastmain>
+</arrakis>

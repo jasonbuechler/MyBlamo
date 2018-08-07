@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<includes>
+	<include name="skinshortcuts-mainmenu">
+		<item id="1">
+			<property name="id">$NUMBER[1]</property>
+			<label>LibreELEC</label>
+			<label2>Common Shortcut</label2>
+			<icon>special://skin/extras/icons/libreelec.png</icon>
+			<thumb />
+			<property name="labelID">libreelec</property>
+			<property name="defaultID">libreelec</property>
+			<visible>System.HasAddon(service.libreelec.settings)</visible>
+			<onclick>RunAddon(service.libreelec.settings)</onclick>
+			<property name="path">RunAddon(service.libreelec.settings)</property>
+			<property name="list">RunAddon(service.libreelec.settings)</property>
+			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
+			<property name="submenuVisibility">libreelec</property>
+			<property name="group">mainmenu</property>
+			<property name="hasSubmenu">False</property>
+		</item>
+		<item id="2">
+			<property name="id">$NUMBER[2]</property>
+			<label>OpenELEC</label>
+			<label2>Common Shortcut</label2>
+			<icon>special://skin/extras/icons/openelec.png</icon>
+			<thumb />
+			<property name="labelID">openelec</property>
+			<property name="defaultID">openelec</property>
+			<visible>System.HasAddon(service.openelec.settings)</visible>
+			<onclick>RunAddon(service.openelec.settings)</onclick>
+			<property name="path">RunAddon(service.openelec.settings)</property>
+			<property name="list">RunAddon(service.openelec.settings)</property>
+			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
+			<property name="submenuVisibility">openelec</property>
+			<property name="group">mainmenu</property>
+			<property name="hasSubmenu">False</property>
+		</item>
+	</include>
+	<include />
+	<include name="skinshortcuts-submenu" />
+	<include name="skinshortcuts-group-libreelec">
+		<description>No items</description>
+	</include>
+	<include name="skinshortcuts-group-alt-libreelec">
+		<description>No items</description>
+	</include>
+	<include name="skinshortcuts-group-openelec">
+		<description>No items</description>
+	</include>
+	<include name="skinshortcuts-group-alt-openelec">
+		<description>No items</description>
+	</include>
+</includes>

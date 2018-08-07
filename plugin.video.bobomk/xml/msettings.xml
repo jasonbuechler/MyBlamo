@@ -1,0 +1,25 @@
+<xml>
+    <plugin>
+        <title>THE KNOB: Customization</title>
+        <mysettings>0/0</mysettings>
+        <thumbnail>special://home/addons/plugin.video.bobomk/resources/media/tools.png</thumbnail>
+        <fanart>special://home/addons/plugin.video.bobomk/resources/media/settings.jpg</fanart>
+        <summary>Open the Settings for the addon on the Customization tab</summary>
+    </plugin>
+
+    <plugin>
+        <title>THE KNOB: General</title>
+        <mysettings>1/0</mysettings>
+        <thumbnail>special://home/addons/plugin.video.bobomk/resources/media/tools.png</thumbnail>
+        <fanart>special://home/addons/plugin.video.bobomk/resources/media/settings.jpg</fanart>
+        <summary>Open the Settings for the addon on the General tab</summary>
+    </plugin>
+
+    <plugin>
+        <title>TOOLS: Clear Cache</title>
+        <link>plugin://plugin.video.bobomk/?mode=clearCache</link>
+        <thumbnail>special://home/addons/plugin.video.bobomk/resources/media/cache.png</thumbnail>
+        <fanart>special://home/addons/plugin.video.bobomk/resources/media/settings.jpg</fanart>
+        <summary>Clear all the Cache for the addon</summary>
+    </plugin>
+</xml>

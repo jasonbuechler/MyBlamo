@@ -1,0 +1,32 @@
+version 0.0.9
+- Added more channels, Doc Squiffy, Tantrum Dev, and a few others, lots of information
+version 0.0.8
+- Replaced 2 channels
+version 0.0.7
+- Fixed broken Channels
+version 0.0.6
+- Updated and improved icon (Thanks to TROOPER 69)
+- Updated description
+- Added a bunch of new channels and a little tweak
+version 0.0.5
+- Added 10 or 11 more Channel's (TONS) of content
+- Did a little tweak
+version 0.0.4
+- Added 2 more Channel's
+- Improved the Icon
+version 0.0.3
+- Fixed icons not showing 
+- Updated and redesigned icon (thanks to Cttech)
+version 0.0.2
+- Added John Henderson, TeverZ, skymashi tv, and Live channel's, cleaned up updated the plugins, 
+- changed name, updated the icon, connected all icons for the sections.
+version 0.0.1
+- First Release
+- Added Channels for 
+- Blue's Tech and Tips, DaButcher, Doggmatic 71, Food Stamps UrbanKingz, istoit, MissKodi21, Muad'Dib, Rohas Tutorials, SuperDell,
+- TARIQ K FERGUSON, Top Tutorials, Ukodi1 Builds
+
+
+
+
+

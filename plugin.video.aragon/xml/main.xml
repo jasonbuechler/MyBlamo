@@ -1,0 +1,17 @@
+<dir>
+<name>[COLOR gold][B]A[COLOR lime]ragon [COLOR gold][B]L[COLOR lime]ive[/COLOR]   [COLOR gold][B](ON[COLOR lime][B]LINE[COLOR gold][B])[/B][/COLOR]</name>
+<link>plugin://script.module.mobdro</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<summary>Aragon Live TV</summary>
+</dir>
+
+<dir>
+<name>[COLOR gold][B]A[COLOR lime]ragon [COLOR gold][B]L[COLOR lime]ive[/COLOR][COLOR gold][B]N[COLOR lime]et[/COLOR][COLOR gold][B]T[COLOR lime]V[/COLOR]   [COLOR gold][B](ON[COLOR lime][B]LINE[COLOR gold][B])[/B][/COLOR]</name>
+<link>plugin://script.module.aragon.net</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<summary>Aragon LiveNetTV</summary>
+</dir>
+
+

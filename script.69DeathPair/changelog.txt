@@ -1,0 +1,7 @@
+v1.2 (06/15/2018)
+- Fixed Mac OSX bug
+- Updated URL for TheVideo.me
+- Added All Debrid authorization
+
+v1.0 (06/08/2018)
+- Initial release

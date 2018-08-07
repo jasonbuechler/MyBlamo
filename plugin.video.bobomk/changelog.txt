@@ -1,0 +1,14 @@
+v0.0.4
+    - Added eporner and celebs nude world
+    - Broke down menus a bit better
+    - Updates in artwork (minor)
+    - 4K Porn - Nuff said
+
+v0.0.3
+    - Optimized Jen Plugin for speed in the submenus.
+
+v0.0.2
+    - Update for base template code
+
+v0.0.1
+    - Initial Release
